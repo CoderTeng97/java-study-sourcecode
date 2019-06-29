@@ -16,6 +16,7 @@
     </properties>
     <modules>
         <module>java-study-base</module>
+        <module>java-study-spring</module>
     </modules>
 
 
